@@ -1,6 +1,7 @@
 # navigator
 
-A new Flutter project.
+Learn Navigasi Multi Page/Screen On Flutter App
+
 
 ## Getting Started
 
